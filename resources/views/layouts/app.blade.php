@@ -15,7 +15,7 @@
 </head>
 
 <body>
-    <div id="app" class="{{ route_class() }}-page">
+    <div id="app" class="{{ route_class() }}-page" rel="stylesheet">
 
         @include('layouts._header')
 
